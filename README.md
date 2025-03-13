@@ -30,9 +30,33 @@ pip install tensorflow numpy matplotlib
    ```
 2. Follow the steps in the notebook to train and evaluate the model.
 
+3. Model
+
+![image](https://github.com/user-attachments/assets/af95e479-6c53-4d11-8e7f-804b103b3e1d)
+
+
+![image](https://github.com/user-attachments/assets/ab35ce6a-46cf-4e26-8cee-a261c1ae346d)
+
+
+![image](https://github.com/user-attachments/assets/8f254b41-6fc4-44d2-be1d-6732a0bc02cd)
+
+
+
+
+
+
+ 
+
+
 ## 📊 Expected Results  
 - A trained RNN model capable of predicting the next value in a sequence.  
-- Visualization of predictions compared to actual values.  
+- Visualization of predictions compared to actual values.
+
+  
+![image](https://github.com/user-attachments/assets/8661c287-2b06-4ee0-830d-aafbd1eb470c)
+
+
+![Uploading image.png…]()
 
 ## 📌 Technologies Used  
 - **Python** 🐍  
